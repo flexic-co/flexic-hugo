@@ -1,0 +1,17 @@
+############################
+## CHANGE THESE
+############################
+
+baseURL: '/'
+title: 'Flexic'
+
+############################
+## MISC
+############################
+
+enableEmoji: true
+disableKinds: ['taxonomy', 'term']
+languageCode: 'en-us'
+enableRobotsTXT: true
+
+

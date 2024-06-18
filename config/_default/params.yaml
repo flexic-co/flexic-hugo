@@ -1,0 +1,72 @@
+############################
+## Author
+############################
+
+author:
+  name: "Flexic"
+  image: author.png
+  greeting: "Web Design & iOS Apps :evergreen_tree:"
+  icon: ":wave:"
+
+############################
+## Links
+############################
+
+links:
+  - github: https://github.com/flexic-co
+  # - gitlab: 
+  # - facebook: 
+  # - x-twitter:
+  # - mastodon:
+  # - linkedin: 
+  - instagram: https://www.instagram.com/flexic.co.uk/
+  # - reddit: 
+  # - telegram: 
+  # - whatsapp: 
+  # - signal: 
+  # - codepen: 
+  # - dev: 
+  - email: ping@flexic.co.uk
+  # - website: 
+  # - link: 
+  # - discord:
+  # - orcid:
+  # - slack:
+  # - stack-overflow: 
+  # - twitch: 
+  # - patreon: 
+  # - soundcloud:
+  # - dribbble: 
+  # - stack-exchange: 
+  # - tiktok: 
+  # - youtube:
+  # - keybase: 
+  # - flickr: 
+  # - tumblr:
+  # - kickstarter: 
+  # - snapchat:
+  # - bluesky: 
+  # - bitbucket:
+  # - bandcamp: 
+  # - etsy: 
+  # - spotify: 
+  # - pinterest: 
+  # - strava: 
+  # - untappd: 
+  # - skype: 
+  # - medium: 
+  # - foursquare: 
+  # - apple: 
+  # - amazon: 
+  # - google: 
+  # - paypal: 
+  # - windows: 
+
+###############################
+## OpenGraph & Twitter Cards
+###############################
+
+title: "Qubt Theme"
+description: "Demo site build with Qubt & Hugo"
+images:
+  - thumbnail.png
